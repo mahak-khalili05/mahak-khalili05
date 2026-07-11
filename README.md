@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mahak 👋
 
-<!--
-**mahak-khalili05/mahak-khalili05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a beginner programmer exploring the world of coding.
 
-Here are some ideas to get you started:
+🎓 Currently learning Python and programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Learning
+
+- 🐍 Python
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+
+## 🚀 My Projects
+
+- 🧮 Python Calculator
+
+## 🌸 A Little About Me
+
+🎀 작은 시작, 큰 성장  
+✨ Small steps, big growth.
+
+---
+
+💜 Learning, building, and improving every day.
