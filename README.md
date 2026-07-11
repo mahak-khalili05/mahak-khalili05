@@ -1,24 +1,46 @@
-# Hi, I'm Mahak 👋
+# Mahak Khalili
 
-🌱 I'm a beginner programmer exploring the world of coding.
+### Computer Science Student · Python Learner
 
-🎓 Currently learning Python and programming fundamentals.
-
-## 💻 What I'm Learning
-
-- 🐍 Python
-- 🌐 HTML & CSS
-- 🔧 Git & GitHub
-
-## 🚀 My Projects
-
-- 🧮 Python Calculator
-
-## 🌸 A Little About Me
-
-🎀 작은 시작, 큰 성장  
-✨ Small steps, big growth.
+> 배우고, 만들고, 성장합니다.
+>  
+> Learning, building, and growing.
 
 ---
 
-💜 Learning, building, and improving every day.
+## About Me
+
+I am a Computer Science student with a growing interest in programming and software development.
+
+Currently, I am focused on strengthening my programming fundamentals through practical projects and continuous learning.
+
+My goal is to develop my technical skills and pursue further academic opportunities in Computer Science.
+
+---
+
+## Current Focus
+
+- Python Programming
+- Programming Fundamentals
+- Problem Solving
+- Git & GitHub
+
+---
+
+## Selected Project
+
+### Python Calculator
+
+A simple Python calculator developed to practice fundamental programming concepts and basic arithmetic operations.
+
+---
+
+## Languages & Tools
+
+`Python` · `Git` · `GitHub` · `VS Code`
+
+---
+
+### 성장에는 끝이 없다.
+
+*There is no end to growth.*
